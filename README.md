@@ -73,13 +73,13 @@ A repository containing my solutions to over 200+ problems from LeetCode and Gee
 
 ### 📊 GitHub Stats & Coding Activity
 
-I am an active problem-solver and have solved over **200+ problems** on platforms like LeetCode and GeeksforGeeks.
+**IMPORTANT**: You must replace `amanchandra1c` in the first image link with your actual LeetCode username for the stats to appear.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanChandra1c&show_icons=true&theme=tokyonight&rank_icon=github" alt="Aman's GitHub Stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChandra1c&layout=compact&theme=tokyonight" alt="Aman's Top Languages" />
+  <img src="https://leetcode-stats.vercel.app/api/YOUR_LEETCODE_USERNAME" alt="Aman's LeetCode Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=AmanChandra1c&theme=tokyonight" alt="Aman's GitHub Streak" height="180px"/>
 </p>
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=AmanChandra1c&theme=tokyonight" alt="Aman's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanChandra1c&show_icons=true&theme=tokyonight&rank_icon=github" alt="Aman's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChandra1c&layout=compact&theme=tokyonight" alt="Aman's Top Languages" height="180px"/>
 </p>
