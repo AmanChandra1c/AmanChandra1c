@@ -75,11 +75,14 @@ A repository containing my solutions to over 200+ problems from LeetCode and Gee
 
 I am an active problem-solver and have solved over **200+ problems** on platforms like LeetCode and GeeksforGeeks.
 
+
+I am an active problem-solver and have solved over **200+ problems** on platforms like LeetCode and GeeksforGeeks.
+
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api/YOUR_LEETCODE_USERNAME" alt="Aman's LeetCode Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=AmanChandra1c&theme=tokyonight" alt="Aman's GitHub Streak" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanChandra1c&show_icons=true&theme=tokyonight&rank_icon=github" alt="Aman's GitHub Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChandra1c&layout=compact&theme=tokyonight" alt="Aman's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanChandra1c&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Aman's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChandra1c&layout=compact&theme=tokyonight" alt="Aman's Top Languages" height="180px"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=AmanChandra1c&theme=tokyonight" alt="Aman's GitHub Streak" />
 </p>
