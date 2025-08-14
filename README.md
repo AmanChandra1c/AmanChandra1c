@@ -73,7 +73,7 @@ A repository containing my solutions to over 200+ problems from LeetCode and Gee
 
 ### 📊 GitHub Stats & Coding Activity
 
-**IMPORTANT**: You must replace `amanchandra1c` in the first image link with your actual LeetCode username for the stats to appear.
+**IMPORTANT**: You must replace `https://leetcode.com/u/amanchandra1c/` in the first image link with your actual LeetCode username for the stats to appear.
 
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api/YOUR_LEETCODE_USERNAME" alt="Aman's LeetCode Stats" height="180px"/>
