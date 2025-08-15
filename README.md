@@ -51,11 +51,11 @@ A web app to collect and manage student feedback across various departments with
 
 #### APT Replay
 A web-based project focused on dynamic UI rendering and API integration, which I contributed to during my internship.
-**Tech:** Next.js, React, FastAPI, PostgreSQL
+**Tech:** Next.js
 
 #### Accounting App
 An application where I developed key components with a focus on clean state management and responsive design during my internship.
-**Tech:** React
+**Tech:** React, FastAPI, PostgreSQL
 
 #### FilmyZone - Movie Website
 An explorer for trending and blockbuster movies, featuring smart filters and detailed cast information.
